@@ -27,11 +27,12 @@ nav ul {
 /* Name Hero Styling */
 .name {
     /* outline: 1px solid red; */
+    height: auto;
     margin-left: 144px;
     margin-right: 144px;
     padding: 0px;
     margin-bottom: 144px;
-    margin-top: 72px;
+    margin-top: 24px;
 }
 
 #name {
@@ -41,7 +42,7 @@ nav ul {
 }
 
 .name h1 {
-    font-size: 144px;
+    font-size: 120px;
 }
 
 #designer {
